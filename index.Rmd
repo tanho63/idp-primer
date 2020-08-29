@@ -70,10 +70,12 @@ There are two basic base defenses in the NFL: the 43 [even front] and the 34 [od
 Tackles are huge men who are asked to take on offensive linemen block after block and use strength to beat their opponents.  A big part of their game is tackling rushers but they’re increasingly important as pass rushers too.  There are 2 main types of tackle:
 
   - Nose tackle
+  
   300lb+ behemoths who line up over the centre or maybe a guard.  They often handle double teams and as such need to be tough to move rather than nimble.  
   Archetype: Vince Wilfork / Damon “Big Snacks” Harrison
 
   - Undertackle
+  
   These men are still bigger than most people you see in real life but are noticeably smaller and faster than noses.  They tend to line up offset to shoot gaps.
   Archetype: Warren Sapp / Geno Atkins.
 
@@ -82,10 +84,12 @@ Tackles are huge men who are asked to take on offensive linemen block after bloc
 Ends are the glamourous pass rushers of linemen.  They’re long, tall athletes who can win with strength, leverage, technique or sheer speed.  
 
 - 4-3 DE
+
   In a 43 they’re the primary pass rushers asked to beat tackles and get the QB on the floor.  They’ll generally line up across from tackles but can be deployed from way outside the tight end.   They need to set the edge too and have responsibility against the run but they live and die on pass rush.
   Archetype: Michael Strahan / Danielle Hunter.
 
 - 3-4 DE
+
   In a 34 defense the ends play closer to the centre and as a result are up against bigger guys in tighter confines.  These guys are less about speed and outside moves and closer to tackles than other ends.  Players can often move between 34 DE and undertackle in 43 defenses.
   Archetype: Justin Smith / Chris Jones.
 
@@ -95,27 +99,33 @@ Ends are the glamourous pass rushers of linemen.  They’re long, tall athletes 
 Linebackers are the most flexible defenders in football.  They’re asked to defend the run, play in coverage and rush the passer.  Because they’re physically closest to the centre of a defense they tend to perform the highest proportion of tasks recorded on the ball.
 
   - Middle LB
+  
   This is the classic “Mike” LB.  These guys rack up huge numbers of tackles because they’re right at the heart of a defense.  They’re often asked to wear the green dot helmet and act as defensive playcallers as well as playmakers.
   In effect all 43 inside middle LBs and 34 inside LBs belong in this pot.
   Archetype: Ray Lewis / Luke Kuechly.
   
   - 43 outside LB
+  
   In an old-fashioned 43 defense these would be the outside LBs [the Will and Sam].  It’s a position that is used less and less with the leaguewide move away from base defenses.
   Archetype: Lance Briggs.
   
   - 34 outside LB
+  
   In a 34 defense these are the primary pass rushers.  In fact although they’re referred to as linebackers they often line up and play as linemen.  They are rarely asked to cover but they do it more than 43 DEs.  They’re generally smaller and lighter than ends with the belief they need to play in space more.
   Archetype: Lawrence Taylor / Von Miller.
   
   - Mike
+  
   The off-ball linebacker asked to play in the middle of the defense.  He’s often the playcaller and needs a skillset which enables him to make big plays against the run {sorting through traffic as well as beating blocks and being a big hitter] as well as playing in coverage where he’ll often be asked to play a lot of zone concepts and break to the ball.
   Archetype: Ray Lewis / Luke Kuechly.
   
   - Sam
+  
   Sam [named because he lines up on the strong side] is a position used less and less in the NFL.  He’s often the biggest LB because going up against TEs is a big part of his job.  He’s often asked to rush the passer quite a lot and because of their size and strength are often weaker coverage players.
   Archetype: Dont’a Hightower / Devon Kennard
   
   - Will
+  
   These guys play on the opposite side from the Sam.  They're named because they play on the weak side.  They’re often smaller, faster players because they’re asked to do more in coverage.  They’re often zone players first but sometimes they’re expected to play man against RBs or TEs.
   Archetype: Thomas Davis / Deone Bucannon
 
@@ -124,11 +134,13 @@ Linebackers are the most flexible defenders in football.  They’re asked to def
 Corners are a defense’s primary pass-defenders. As a coach one told me it’s the toughest job in football.  They have to be as fast as receivers without being fooled by route running or jukes and they have to do it all backwards.
 
   - Outside corner
+  
   These players line up on wide receivers on the perimeter of defenses.  Their primary job is to ensure those WRs do not catch the ball, or if they do make an early tackle.  
   Corners are often referred to by their primary coverage styles [ cover 2 corner, press man corner, zone corner etc] but this practise has thankfully fallen away a little.  In reality all NFL corners are asked to perform various techniques within games because disguise and surprise are so important.
   Archetype: Deion Sanders / Richard Sherman
   
   - Slot corner
+  
   These corners are named poorly because they fundamentally do not line up on the corner.  By definition a slot receiver has to have a man outside of him.
   Traditionally slot receivers were smaller, more agile and speedier than outside receivers so slot corners are often the same.  They need to be able to move well in space, make quick decisions and have lightning reflexes.  As offenses use more types of players in the slot these defenders are increasingly becoming more diverse too,
   Archetype: Antoine Winfield / Desmond King
@@ -139,18 +151,22 @@ Corners are a defense’s primary pass-defenders. As a coach one told me it’s 
 Safeties traditionally were the deepest defenders.  The last line of defense. But as football has evolved and become more complex safeties are maybe the most interesting position in the sport.  They’re asked to do literally everything on the field regularly.  It’s often tough to watch them on standard gamefilm but immensely rewarding.  Safeties teach us so much about how modern football is played.
 
   - Strong safety
+  
   These guys are almost extra linebackers.  They‘re often asked to play down in the box and be an additional run defender whilst they run many coverage concepts similar to LBs too.  They’re bigger and more physical defenders who are the classic big hitters of the defensive backfield.
   Archetype: Bob Sanders / Keanu Neal.
   
   - Free safety
+  
   This position is closer to the original use of safeties,  They play deep and are asked to defend the deep ball whilst acting as a backup to players in front of them.  Centre-fielder single-high safeties fall into this category.  Range is a huge part of their game as they need to react to the QB and make it anywhere across the field before the ball does.
   Archetype: Ed Reed / Earl Thomas
   
   - 2-deep safety
+  
   Many teams and defenses do not use a traditional strong/free safety split.  The classic Tampa 2 used simply left and right safeties and this is still common today. These players have to have varied skill-sets and be able to perform any of the responsibilities more specialist safeties might be.
   Archetype: John Lynch / Shawn Williams
   
   - Nickel safety
+  
   Increasingly we’re seeing nominal safeties playing in the slot as those slot players start to diversify.  
   Jayron Kearse is 6’4” and 214 lbs.  Tyrann Mathieu is 5’9” and 185.  The slot is becoming ever more interesting.
   Archetype: Antoine Winfield / Budda Baker.
@@ -219,6 +235,7 @@ There are far, far more personnel groupings than these [I haven’t even touched
 # Golden Rules of IDP
 
 - There is no such thing as balance.
+
   In IDP league terms that is.  There are fundamentally a lot more IDPs than players at some offensive positions.  There are just 32 QBs each week.  But around 80 CBs each week.
 
   On top of that scoring distribution varies a lot too.  Only a few RBs will reach the top levels.  But many LBs score very similarly.
@@ -234,12 +251,15 @@ There are far, far more personnel groupings than these [I haven’t even touched
   Passing plays are quicker in game clock terms so IDPs who face pass-heavy teams will play more snaps.
 
 - In the box please.
+
   After volume you’re looking for players as close to the action as possible.  For safeties and corners that means in the box.  For LBs that means you want a low % of their time spent rushing the passer or stopping the run.
 
 - Things change fast.
+
   With offensive players you might be able to pick a player you can keep for a decade.  That’s very unlikely to happen with IDPs.  Don’t try to play for the long-term because it won’t happen.  Just concentrate on building a competitive roster every year.  Veterans are often the key to this.
 
 - Tackles are not good.
+
   Well yeah, they’re better than missed tackles.  But tackles are a poor way of judging player quality.  For every Bobby Wagner there’s a few Tahir Whiteheads.  Poor players who just happen to have roles that generate high tackle numbers.  These guys often get replaced with their owners asking “what happened?  I thought he was good?”
 
 ## What Should Starting Requirements Look Like?
@@ -335,12 +355,15 @@ Again - feel free to experiment and find settings you like. But here’s my thou
 - Defensive interior
 
   Lump tackes in with 34 DEs.  They all play roughly in the same place anyway and the score similarly.  This will really make your league more interesting.  Because where DT-specific leagues have maybe 5 really elite players you’ll suddenly have 2 or 3 times as many.  A top 5 tech might manage to get to 12 sacks in a good year [Chris Jones had 14 in 2018] which is more comparable to interior players than the true edge guys.  So lump them together.
+  
   For these guys I also like to ramp tackles up too.  It reflects their ability to get off blocks and make plays in the trenches.  Doubling tackle scoring from LBs is about right.  Let’s say 2 for a solo and 1 for an assist.
+  
   Rewarding passes defended is of course a must.  It’s generally batted down passes for these guys but that’s a high impact play.  4 points is about right.  Interceptions should remain at 6 points.  Because watching the big guys run with the ball is awesome.
 
 - EDGE
 
   Edge not DE.  Lump in 34 OLBs with 43 DEs and you’ll remove a massive IDP hurdle - that of players having their position eligibility changed.  The two positions are pretty analogous in scoring and this is just a better solution.
+  
   Now we’ve agreed that, scoring is pretty easy.  Most leagues have it set quite well.  Tackles should remain the same as inside LBs but sacks need ramping up.  Make it 5 or 6.  Sacks are immensely impactful plays.  The best sack-artists each year might get to about 15 of them.  About the same as TDs for top offensive players.  Scoring a couple of points for TFLs and QB its is good too.  You want to reflect pressure created not just sacks.
 
 - LB
@@ -432,11 +455,12 @@ Pretty complicated eh?  That’s because different teams and fronts and plays us
 If you watch really closely you can see this happening but really it’s a level of knowledge that isn’t really useful for IDP.  There’s no real advantage in breaking down players to that sort of degree because it offers no statistical or predictive benefit beyond the position splits we’ve already covered.
 
 However for those of you curious I use this simplified translation:
-34 nose tackles	0 tech
-43 nose tackles	1 tech
-43 undertackles	3 tech
-34 DEs			5 tech
-43 DEs			7 tech
+
+- 34 nose tackles	0 tech
+- 43 nose tackles	1 tech
+- 43 undertackles	3 tech
+- 34 DEs			5 tech
+- 43 DEs			7 tech
 
 Even this is not that accurate.  43 DEs often line up out at 9 tech.  And on many, many occasions players will line up in subtly different spots.  A 3-tech will line up as a 2-tech or a 4-tech lots of the time depending on the play.
 
