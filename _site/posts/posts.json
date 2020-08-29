@@ -1,0 +1,18 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Tom Kislingbury's IDP Primer",
+    "description": "An archive of Tom Kislingbury's IDP Primer document but attached to a weblink",
+    "author": [
+      {
+        "name": "Tom Kislingbury",
+        "url": "https://twitter.com/tomkislingbury"
+      }
+    ],
+    "date": "2020-08-29",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-29T08:36:12-04:00",
+    "input_file": "welcome.utf8.md"
+  }
+]

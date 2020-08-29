@@ -1,0 +1,117 @@
+---
+title: "Tom Kislingbury's IDP Primer"
+description: |
+  An archive of Tom Kislingbury's IDP Primer document but attached to a weblink
+author:
+  - name: Tom Kislingbury
+    url: https://twitter.com/tomkislingbury
+    affiliation: DLF
+    affiliation_url: https://dynastyleaguefootball.com
+date: 08-29-2020
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+# Introduction
+Fantasy Football is a fun game to play on the back of real football.  But whereas fantasy mostly just covers offensive players who touch the ball IDP [Individual Defensive Player] is a version of fantasy football that tries to reflect the sport as a whole rather than just one aspect of it.
+
+‘Standard’ fantasy can often just seem to revolve around wide receivers and running backs with quarterback commoditized and very few relevant tight ends.  In contrast IDP can give you up to different positions to manage which makes roster, drafting and trading decisions much more interesting and impactful.  Strategically it’s a far deeper and more varied game.
+
+All of this begs the question why IDP isn’t bigger than it is.  Maybe 10% of dynasty leagues are IDP ones and only around 5-10% of season-long leagues.  And many of those are IDP-lite with very little depth.  Reasons as to why this is vary.  If you ask someone who plays fantasy but not IDP why the most common response is that IDP is just too much to learn and too big a commitment.  This seems unlikely to be the real answer given how many non-IDP players spend a huge amount of time on their hobby.  Dividing that time among offensive and defensive players would be very feasible.  In fact if you ask people that do play IDP they’ll mostly tell you it’s not that hard.  And we’re talking about pretty committed football fans in the first place.  Shouldn’t they already know this stuff?
+
+The likeliest answer to me is that actually a higher proportion of football fans than is suspected only actually watch the ball.  They only know defensive players when their name is called and they have very little idea how defense works.  It’s a moot point anyway.  Many people are dead-set against IDP and that’s their prerogative. If they want to limit themselves they can.
+
+But anyone reading this is probably interested in a deeper experience with more decisions and more opportunities to educate themselves about football.  Hopefully this document will enable you to get quickly up to speed with what IDP is and how it works and to start being more successful in IDP leagues you play in.
+
+# History of IDP
+IDP has actually been going quite a long time.  I first experienced it around 1998 with a league on Sandbox that had multiple IDP starters.  DeWayne Washington the Steelers defensive back was my superstar player on the back of his 79 solo tackles that year.
+
+That league was very much the exception though, and IDP has changed drastically over the last 20 years.  A common narrative back then was IDP was interesting, but leagues should just dip their toes in to see if it was for them.  They did this by just including a very small number of IDP slots.  Typically 3 [one each of defensive line, linebacker and defensive back] but I played in leagues with just one IDP slot.  I even commissioned one.
+
+This drives many fantasy owners away because leagues like that feel entirely random.  And in many ways they are.  With only a very small number of required starters [compared to a huge number of available options] everyone always has a stud and it’s just a matter of whose stud is better in any given week.  That doesn't feel fun to play in at all [source: my experience of playing in crap leagues] and often puts people off IDP for good.  A common criticism is that IDP is entirely random and cannot be predicted intelligently or reliably.  This often arises from people who played in a too-small league.  Imagine playing in an eight-team league with just one wide receiver able to be used by each team.  It would feel very random wouldn’t it? Every team would have a Julio or Nuk or OBJ.  Over the season they’d all do very well but on a weekly basis the variance would look enormous. It’s the same issue with IDPs. Just using a few of them isn’t fun.
+
+Back in the day IDP was really built around just a few stats.  The tackle was all-important and seen as the currency of defensive football with sacks and interceptions secondary.  Many leagues only used those three categories and standard scoring was one point per tackle with sacks/picks worth 3 or 4.  Because sacks are less important than TDs and TDs score 6 points.  
+
+This led to a situation where players who piled up tackles were worth far more than any others.  Recording lots of tackles and big plays together is ideal but that doesn’t often happen.  Most players are either one or the other.  In the NFL the lion’s share of defensive stats are recorded by linebackers so linebackers generally scored far more points than any other position.  For years the best IDP analysis was basically “draft LBs early and often”.  
+
+This was the equivalent of old fantasy leagues back in the 80s where they only scored points for touchdowns.  Technically it reflected the NFL but it did a really bad job of representing which players were actually playing well.
+
+In recent years the flood of data has meant more and better statistics are being used to score IDPs.  Tackles for a loss [TFLs], assists, passes defended and even QB hits are all frequently used now.  And there’s many more datapoints on the horizon which should enable even better scoring.  
+
+Lineups and positional scoring have developed rapidly over the last few years.  There are now many types of league that focus on different aspects and IDP has gone from extremely basic [because no-one knew any better] to bewilderingly complex [because there’s no central, accepted idea of what standard is].
+
+Looking for a definition of what ‘standard’ is is probably futile.  There’s just too many differing views and people like what they like. This document isn’t about teaching you what is best.  It’s about teaching you to figure out what you're looking for and how you can take advantage of any given league.
+
+# Modern Defensive Football
+
+Anyone with a passing interest in football is aware of the offensive shifts that have taken place over the last 20 years.
+
+In the early 00s spread offense was sweeping the college landscape [headlined by Urban Meyer] as coaches found ways to make offenses more efficient and explosive by building around the passing game more than ever before.  This spread into the NFL until the pros were full of spread-out offenses with quarterbacks who play in the shotgun.  This is where we find ourselves now with 68% of all offensive yards in 2018 being passing yards.
+
+Defense as ever has to move just as fast [if it didn’t it would be Arena league] but because so many fans don’t watch defense public conception of defensive schemes lags behind.
+
+Most NFL teams use a defensive formation they refer to as ‘base’.  This doesn’t mean they use it the most.  Or they’re most comfortable with it. It’s just a legacy term.  In the old days when defenses only had 2 or 3 plays base really would be that but these days it’s normally a relatively small part of a defense.
+
+There are two basic base defenses in the NFL: the 43 [even front] and the 34 [odd front].  Before we get to them though we’ll cover basic positions and their sub-classifications.
+
+### Defensive Tackle
+
+Tackles are huge men who are asked to take on offensive linemen block after block and use strength to beat their opponents.  A big part of their game is tackling rushers but they’re increasingly important as pass rushers too.  There are 2 main types of tackle:
+
+  - Nose tackle
+  300lb+ behemoths who line up over the centre or maybe a guard.  They often handle double teams and as such need to be tough to move rather than nimble.  
+  Archetype: Vince Wilfork / Damon “Big Snacks” Harrison
+
+  - Undertackle
+  These men are still bigger than most people you see in real life but are noticeably smaller and faster than noses.  They tend to line up offset to shoot gaps.
+  Archetype: Warren Sapp / Geno Atkins.
+
+
+### Defensive End
+
+### Linebacker
+
+### Cornerback
+
+### Safety
+
+## Schemes in the NFL
+
+### 4-3
+
+### 3-4 
+
+## Sub Packages
+
+### 4-3 Nickel
+
+### 3-4 Nickel
+
+# Golden Rules of IDP
+
+## What Should Starting Requirements Look Like?
+
+## Roster Size
+
+## Best Ball
+
+## Waivers
+
+## Scoring Settings
+
+# Finding Good IDPs
+
+# Conclusions
+
+# Recommended Follows

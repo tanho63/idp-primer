@@ -1,0 +1,12 @@
+name: "."
+title: "Tom Kislingbury's IDP Primer"
+description: |
+  Tom Kislingbury's IDP Primer
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Twitter"
+      href: https://twitter.com/TomKislingbury
+output: distill::distill_article
