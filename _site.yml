@@ -2,7 +2,7 @@ name: "."
 title: "Tom Kislingbury's IDP Primer"
 description: |
   Tom Kislingbury's IDP Primer
-output_dir: "_site"
+output_dir: "docs"
 base_url: idpprimer.com
 navbar:
   right:
